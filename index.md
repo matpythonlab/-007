@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+   <head>
+       <title>赵明宇的计算机导论作业</title> 
+   </head>
+   <body>
+       <!--Headings-->
+       <h2>计算机学科各课程之间的关系图 </h2>
+       <p1><img src="计算机学科各课程之间的关系图.jpg" width="800px" height="600px">   </p1>
 
-You can use the [editor on GitHub](https://github.com/matpythonlab/-007/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+       <h2>计算机学科各课程的参考资料 </h2>
+       <p2>对计算机学科的简单了解<a href="https://www.zhihu.com/question/299582198/answer/579822080">点击了解</a>   </p2>
+       <p3>成体系的了解计算机学科<a href="https://wenku.baidu.com/view/0235cd5a657d27284b73f242336c1eb91b373362.html">点击了解</a></p3>
+       <p4>走进计算机学科体系<a href="https://blog.csdn.net/wz_cow/article/details/89116871">点击了解</a></p4> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+       <h2>我对计算机学科的认识 </h2>
+       <p5>计算机在我心中一直以神秘和复杂的印象出现，尽管随着时代发展，我们身边的计算机相关的应用越来越多；随着
+           年龄增长，我对计算机科学的了解越来越多，但这些非但不能帮我揭开计算机科学的神秘面纱，反而让我一点点看到
+           计算机科学庞大体系的冰山一角：计算机学科绝不仅仅是写代码，研究计算机的设计与制造和利用计算机进行信息获取、表示、存储、处理、控制等的理论、原则、方法和技术的一系列学科都可以归入其中，
+           让我更加惊叹人类智慧巧妙的同时 也激发了我的求知欲，让我更想了解这个宏大的学科。
+           在现在的我看来，计算机学科是21世纪未来的极为重要发展方向，哪个国家能在其中把握了先机就意味着能在国与国
+           的竞争中占据有利地位，而能在其中做出杰出贡献的个人也无疑能载入青史，实现人生价值。未来的信息化是大势所趋，
+           网络的时代终将到来，不仅国家应该主动制订政策适应变化，我们每个人都应对此有所了解，避免成为新时代的“文盲”。
+       </p5>
 
-### Markdown
+       <h2>我的学业规划 </h2>
+       <p6>计算机作为当今最为热门的专业之一，不仅有着广阔的就业前景，而且行业的平均工资也处于一个较高水准。
+        但与此相对，计算机行业的竞争也十分激烈，这不但体现在人才市场上的激烈竞争，也在学校的专业分流中体现。
+        作为一名渴望探求计算机学科奥秘的大一新生，为了能够在为了继续学习计算机，我的首要目标是把基础课抓牢，
+        从数学开始，争取在大一取得一个好成绩，不仅为此后的分流确立一个高起点，更是奠定一个好的数学基础，培养
+        自己的逻辑思维能力。同时，在选修课方面，我在接触了计算机科学导论后可以进一步选择程序设计相关的
+        选修课，进一步了解专业内容，与适应自己的具体分支学科。同时，积极与老师沟通，了解当今最前沿的计算机
+        科技发展与科研项目，尽早了解自己的兴趣所在和想从事的科研大方向，在未来面临无数选择时能不被迷惑，坚定
+        理想。在分流后要积极了解保研方向，各个保研期望学校的导师，在更加了解专业的同时能够更清晰的看到
+        自己和理想间的差距，鞭策自己更加努力地去学习、去发现、去探索。</p6>
+       
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matpythonlab/-007/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      
+   </body>
+</html>
